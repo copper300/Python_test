@@ -5,3 +5,4 @@
 4. Add Global Variable demo program
 5. Add Partial Function demo program
 6. Add Packing&Unpacking demo program
+7. Add Any & All demo program
