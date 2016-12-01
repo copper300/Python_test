@@ -3,3 +3,4 @@
 2. Add string method programs
 3. Add ternary operator program
 4. Add Global Variable demo program
+5. Add Partial Function demo program
