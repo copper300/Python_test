@@ -6,3 +6,4 @@
 5. Add Partial Function demo program
 6. Add Packing&Unpacking demo program
 7. Add Any & All demo program
+8. Add loops demo program
