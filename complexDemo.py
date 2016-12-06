@@ -65,3 +65,42 @@ print(cmath.log10(z))
 
 print("The square root of complex number is : ")
 print(cmath.sqrt(z))
+
+# Python code to demonstrate the working of
+# sin(), cos() and tan()
+
+print("The sine value of complex number is : ")
+print(cmath.sin(z))
+
+print("The cosine value of complex number is : ")
+print(cmath.cos(z))
+
+print("The tangent value of complex number is : ")
+print(cmath.tan(z))
+
+print("The arc sine value of complex number is : ")
+print(cmath.asin(z))
+
+print("The arc cosine value of complex number is : ")
+print(cmath.acos(z))
+
+print("The arc tangent value of complex number is : ")
+print(cmath.atan(z))
+
+print("The hyperbolic sine value of complex number is : ")
+print(cmath.sinh(z))
+
+print("The hyperbolic cosine value of complex number is : ")
+print(cmath.cosh(z))
+
+print("The hyperbolic tangent value of complex number is : ")
+print(cmath.tanh(z))
+
+print("The inverse hyperbolic sine value of complex number is : ")
+print(cmath.asinh(z))
+
+print("The inverse hyperbolic cosine value of complex number is : ")
+print(cmath.acosh(z))
+
+print("The inverse hyperbolic tangent value of complex number is : ")
+print(cmath.atanh(z))
