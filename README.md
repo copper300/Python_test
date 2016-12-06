@@ -25,3 +25,4 @@
 24. Add calender operation demo program
 25. Add complex number demo program
 26. Add time demo program
+27. Add random demo program
